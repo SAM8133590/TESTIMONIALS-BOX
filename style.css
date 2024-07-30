@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 .testimonials-container {
-    background-color: #476ce4;
+    background-color: #4786e405;
     border-radius: 15px;
-    color: #ffffff;
+    color: #bbb;
     font-family: 'Montserrat';
     margin: 20px auto;
     max-width: 768px;
     padding: 50px 80px;
+    height: 200px;
 }
 
 .testimonial {
