@@ -1,0 +1,42 @@
+/* @import url('https://fonts.googleapis.com/css?family=Montserrat'); */
+
+.testimonials-container {
+    background-color: #476ce4;
+    border-radius: 15px;
+    color: #ffffff;
+    font-family: 'Montserrat';
+    margin: 20px auto;
+    max-width: 768px;
+    padding: 50px 80px;
+}
+
+.testimonial {
+    line-height: 28px;
+    text-align: justify;
+}
+
+.centered-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    object-fit: cover;
+}
+
+.user-details {
+    margin-left: 10px;
+}
+
+.username {
+    margin: 0;
+}
+
+.role {
+    font-weight: normal;
+    margin: 2px 0;
+}
